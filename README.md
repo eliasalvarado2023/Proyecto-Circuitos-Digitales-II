@@ -1,1 +1,1 @@
-# Proyecto-Circuitos-Digitales-II
+# Proyecto Circuitos Digitales II
